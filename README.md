@@ -3,6 +3,6 @@ I have chosen to explore American Impressionist Frank Weston Benson and his use 
 
 Benson is renowned for his skillful use of light in his paintings, particularly those of the outdoors. Benson uses light to frame figures and enhance their liveliness and emotion. His use of atmosphere characterized by a sense of space and of “airiness” conveys both the mood and time of day in the painting. This combination of light and atmosphere invites viewers to experience the serenity and tranquility of nature. These themes are portrayed in Bensons other works such as; Summer and Calm Morning.
 
+#Calm Morning
 .ve-media wc:Calm_Morning_1904_Frank_Weston_Benson.jpg
-
-
+In the late 1980s Frank Weston Benson began to paint more plen air paintings of the outdoors. Benson mostly painted his family in this idyllic settings and especailly in "Calm Morning" we can see how his use of light and atmosphere play a role in the interpretation of his work. In Calm morning Benson depicts his three older children fishing on small boat. Benson's use of long brushstrokes and color choices give the viewer a feeling of tranquillity. 
