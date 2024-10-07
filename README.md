@@ -1,3 +1,13 @@
+Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. 
+
+Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. 
+
+Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. 
+
+Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. 
+
+Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. 
+
 e59d750fe59d750fe59d750f.ve-header "The Role of Light and Atmosphere in the Works of Frank Weston Benson" wc:After_the_Storm_1884_Frank_Weston_Benson.jpg
 I have chosen to explore American Impressionist Frank Weston Benson and his use of light and atmosphere in his works. The painting that I specifically chose to look at was After the Storm (1884), which depicts a coastal scene after a storm. The viewer can see that both the sky and sea are calming but there are noticeable effects left over. 	
 
