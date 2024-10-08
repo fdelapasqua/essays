@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "c66f4b7d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The water is very still and barely ripples. The environment reflects the feelings of peace and tranquility as well as the figures. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/fa5fb5e5f72f2d31ae9f2537768517fa7112c245bd0ed7a90e5f726f42656ecd",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:111.67713165283203,503.7436828613281,359.34078216552734,124.42080688476562"
+      },
+      "id": "fa5fb5e5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f7537a4e"
   }
 ]
