@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "7268c03a"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The shy is made up of light blues and greys, giving us the idea that this is a misty early morning. We are able to see bits of yellow starting to peek through the clouds and we know or can anticipate that this will be a lovely warm and sunny summer's day.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/fa5fb5e5f72f2d31ae9f2537768517fa7112c245bd0ed7a90e5f726f42656ecd",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:194.31192016601562,84.7567367553711,366.1805114746094,179.43872833251953"
+      },
+      "id": "fa5fb5e5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9d3cb76f"
   }
 ]
