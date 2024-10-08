@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "f7537a4e"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The water is so still that we can see the reflections of the figures and boats, it is almost mirror-like. This stillness and reflection encourages teh feelings of a calm morning on the water. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/fa5fb5e5f72f2d31ae9f2537768517fa7112c245bd0ed7a90e5f726f42656ecd",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:553.6052856445312,1341.8544921875,614.5377807617188,239.5008544921875"
+      },
+      "id": "fa5fb5e5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7268c03a"
   }
 ]
