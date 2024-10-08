@@ -103,5 +103,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "9d3cb76f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Bensons brushstrokes are soft and clean and he doesn't include any harsh lines or shadows. Along with this his color pallete is soft and diffuses. Both these factors encourage sentiments of calm and peace further emphasizing the mood of the painting.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/fa5fb5e5f72f2d31ae9f2537768517fa7112c245bd0ed7a90e5f726f42656ecd",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:700.0617065429688,184.75674438476562,359.16705322265625,86.17837524414062"
+      },
+      "id": "fa5fb5e5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bc7f04c3"
   }
 ]
