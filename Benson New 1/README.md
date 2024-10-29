@@ -14,3 +14,5 @@ Benson is celebrated for his mastery of light and atmosphere in his Impressionis
 .ve-media wc:Low_Tide_at_Pourville,_by_Claude_Monet,_Cleveland_Museum_of_Art,_1947.196.jpg
 
 .ve-media wc:The_Bridge_of_Sighs_by_John_Singer_Sargent.jpg
+
+Sorolla, Monet, and Sargent, like Benson, masterfully employ Impressionist techniques such as nuanced color palettes, expressive brushstrokes, and the dynamic use of light to create intricate and evocative paintings.  Although they all have unique styles that vary due to their cultural background and personal preferences they utilzie their skills to capture the fleeeting moments of everyday life and the beauty of their enviorments. Sorollas vibrant sunlight, Monet's etheral illustratiosn of nature, Sargents sophisticated subjects, and Bensons serene representations of the New England Coast offer an insight into the visual culture of impressionism and the artists that  inspired Benson's work. 
