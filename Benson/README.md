@@ -10,6 +10,7 @@ Benson’s son George stands with his back against the sun, and we can almost fe
 #Benson and Beyond 
 
 Benson is celebrated for his mastery of light and atmosphere in his Impressionist paintings. Benson captures momentary light and a luminous quality of atmospehere in his works which is very similar to the works of Claude Monet, John Singer Sargent and his plein-air works, as well as Joaquin Sorolla. 
-.ve-media wc:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-GoogleArtProject.jpg caption="Strolling along the Seashore 1909, Joaquín Sorolla" seq=2 left
+
+.ve-media wc:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-GoogleArtProject.jpg 
 
 
