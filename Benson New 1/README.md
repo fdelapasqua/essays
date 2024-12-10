@@ -4,7 +4,8 @@ I have chosen to explore American Impressionist ==Frank Weston Benson=={Q956055}
 Benson is renowned for his skillful use of light in his paintings, particularly those of the outdoors. Benson uses light to frame figures and enhance their liveliness and emotion, [A Collection of Benson's Works Demonstrating his Impressionist Style](https://www.youtube.com/watch?v=zisXUpQ-tfA). His use of atmosphere characterized by a sense of space and of “airiness” conveys both the mood and time of day in the painting. This combination of light and atmosphere invites viewers to experience the serenity and tranquility of nature. These themes are portrayed in Bensons other works such as; Summer and Calm Morning.
 
 #Who Was Frank Weston Benson?
-.ve-media wc:Frank_W_Benson_artist_headshot_crop.jpg
+
+.ve-media wc: Frank W Benson artist headshot-crop.jpg
 
 [Frank Weston Benson](https://en.wikipedia.org/wiki/Frank_Weston_Benson) was an American Impressionist painter known for his watercolors and etchings. His carrer began when he started out painted portraits and murals for the Library of Congress. In 1880, Benson began his studies at the School of the Museum of Fine Arts in Boston. In 1883 he travelled to Paris to study at the Académie Julian. He was an instructor and department head at the School of the Museum of Fine Arts in Boston later on. Benson was also founding member of the [Ten American Painters](https://en.wikipedia.org/wiki/Ten_American_Painters), American Academy of Arts and Letters and The Guild of Boston Artists. Benson was deeply influenced by the seventeenth-century mastersJohannes Vermeer and Diego Velázquez. Benson was alos greatly influenced by the work of Claude Monet. Benson capitalized on Monet's color palette, and brushstrokes, as well as Monet's style of "reflected light". 
 
