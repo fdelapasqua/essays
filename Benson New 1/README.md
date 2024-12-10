@@ -5,8 +5,6 @@ Benson is renowned for his skillful use of light in his paintings, particularly 
 
 #Who Was Frank Weston Benson?
 
-.ve-media wc: Frank W Benson artist headshot-crop.jpg
-
 [Frank Weston Benson](https://en.wikipedia.org/wiki/Frank_Weston_Benson) was an American Impressionist painter known for his watercolors and etchings. His carrer began when he started out painted portraits and murals for the Library of Congress. In 1880, Benson began his studies at the School of the Museum of Fine Arts in Boston. In 1883 he travelled to Paris to study at the Académie Julian. He was an instructor and department head at the School of the Museum of Fine Arts in Boston later on. Benson was also founding member of the [Ten American Painters](https://en.wikipedia.org/wiki/Ten_American_Painters), American Academy of Arts and Letters and The Guild of Boston Artists. Benson was deeply influenced by the seventeenth-century mastersJohannes Vermeer and Diego Velázquez. Benson was alos greatly influenced by the work of Claude Monet. Benson capitalized on Monet's color palette, and brushstrokes, as well as Monet's style of "reflected light". 
 
 
