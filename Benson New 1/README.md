@@ -23,8 +23,10 @@ American Impressionists adapted the European Impressionist movement to depict Am
 Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. Benson’s son George stands with his back against the sun, and we can almost feel the warmth of the rays cast down, this instills feelings of peace and relaxation. In the late 1980s Frank Weston Benson began to paint more plen air paintings of the outdoors. Benson mostly painted his family in this idyllic settings and especailly in "Calm Morning" we can see how his use of light and atmosphere play a role in the interpretation of his work. In Calm morning Benson depicts his three older children fishing on small boat. Benson's use of long brushstrokes and color choices give the viewer a feeling of tranquillity. 
 
 #A Collection of Benson's Works
+.ve-media wc:Frank_weston_benson_the_reader.jpg left
+.ve-media wc:Camp_WC_1921_Frank_Weston_Benson.jpg right
 
-
+The works above *The Reader* and *Camp* are exemplary of Benson's skill with light and atmosphere. Through Bensons skill and the styles of en plein air we are able to better understand not only the physically aspects of the painting, such as time of day, but also the emotional aspects, specifically of peacefullness when one is surronded by nature. 
 
 
 #Benson and Beyond 
@@ -33,7 +35,7 @@ Benson is celebrated for his mastery of light and atmosphere in his Impressionis
 
 .ve-media wc:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg 
 
-.ve-media wc:The_Bridge_of_Sighs_by_John_Singer_Sargent.jpg caption=(The Bridge of Sighs, John Singer Sargent)
+.ve-media wc:The_Bridge_of_Sighs_by_John_Singer_Sargent.jpg
 
 
 Sorolla, Monet, and Sargent, like Benson, masterfully employ Impressionist techniques such as nuanced color palettes, expressive brushstrokes, and the dynamic use of light to create intricate and evocative paintings.  Although they all have unique styles that vary due to their cultural background and personal preferences they utilzie their skills to capture the fleeeting moments of everyday life and the beauty of their enviorments. Sorollas vibrant sunlight, Monet's etheral illustrations of nature, Sargents sophisticated subjects, and Bensons serene representations of the New England Coast offer an insight into the visual culture of impressionism and the artists that  inspired Benson's work. 
