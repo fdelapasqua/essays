@@ -31,7 +31,7 @@ The works above *The Reader* and *Camp* are exemplary of Benson's skill with lig
 
 #Benson and Beyond 
 Benson is celebrated for his mastery of light and atmosphere in his Impressionist paintings. Benson captures momentary light and a luminous quality of atmospehere in his works which is very similar to the works of ==Claude Monet=={Q296}, ==John Singer Sargent=={Q155626} and his plein-air works, as well as ==Joaquin Sorolla=={Q351746}. 
-.ve-media wc:Low_Tide_at_Pourville,_by_Claude_Monet,_Cleveland_Museum_of_Art,_1947.196.jpg 
+.ve-media wc:Low_Tide_at_Pourville,_by_Claude_Monet,_Cleveland_Museum_of_Art,_1947.196.jpg   
 
 .ve-media wc:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg 
 
@@ -40,7 +40,7 @@ Benson is celebrated for his mastery of light and atmosphere in his Impressionis
 
 Sorolla, Monet, and Sargent, like Benson, masterfully employ Impressionist techniques such as nuanced color palettes, expressive brushstrokes, and the dynamic use of light to create intricate and evocative paintings.  Although they all have unique styles that vary due to their cultural background and personal preferences they utilzie their skills to capture the fleeeting moments of everyday life and the beauty of their enviorments. Sorollas vibrant sunlight, Monet's etheral illustrations of nature, Sargents sophisticated subjects, and Bensons serene representations of the New England Coast offer an insight into the visual culture of impressionism and the artists that  inspired Benson's work. 
 
-#What Do We Know
+#What Do We Know Now?
 
 Frank Weston Benson was a notable American Impressionist. He is renowned for his impressionist paintings, especially those of his subjects in outdoor settings such as; *Calm Morning*, *Camp*, and *The Reader*. Benson is renowned for his use of light and atmosphere. He creates peaceful and serene scenes that emphasize the Impressionist technique of en plein air, highlighting the beauty of the outside world. 
 
